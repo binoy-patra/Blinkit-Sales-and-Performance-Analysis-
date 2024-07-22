@@ -1,4 +1,4 @@
-## Report: Blinkit Sales and Performance Analysis
+## Blinkit Sales and Performance Analysis
 
 #### **Introduction**
 The Blinkit Data Analysis Dashboard project leverages data from the Blinkit application to uncover valuable insights into customer preferences, sales trends, and key performance metrics. Utilizing advanced data visualization techniques in Power BI, this project aims to provide actionable insights that can drive strategic decision-making and improve business outcomes.
@@ -33,6 +33,11 @@ Here is the link: [Google Drive](https://drive.google.com/drive/u/0/mobile/folde
 #### **Tools Used**
 - **Power BI:** For data visualization and analysis.
 - **GitHub:** For version control and project management.
+
+### Dashboard 
+
+![Images](https://github.com/binoy-patra/Blinkit-Sales-and-Performance-Analysis-/blob/main/Images/Blinkit%20Dahboard_page-0001.jpg)
+
 
 #### **Key Insights**
 1. **Total Sales:** $1.20M
